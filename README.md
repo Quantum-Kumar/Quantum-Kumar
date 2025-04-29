@@ -1,4 +1,4 @@
-🚀 Quantum Computing & Cosmology Enthusiast 🌌 | 🎓 Physics Master's Student 
+🚀 Quantum Computing & Cosmology Enthusiast 🌌 | 🎓 Physics MSc Graduate
 
 Passionate about exploring the physics within the realms of quantum computing and cosmology. 
 
