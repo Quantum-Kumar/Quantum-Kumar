@@ -1,12 +1,21 @@
-🚀 Quantum Computing & Cosmology Enthusiast 🌌 | 🎓 Physics MSc Graduate
+🚀 Quantum Physicist | Researcher | Simulation Enthusiast
+Hi, I’m Rajkumar Singharia – a physicist with a strong foundation in quantum optics, quantum sensing, and computational modeling. I work with tools like Python, QuTiP, Qiskit, and MATLAB to explore topics ranging from spin-squeezed protocols and decoherence to cavity QED and quantum control.
 
-Passionate about exploring the physics within the realms of quantum computing and cosmology. 
+🧠 Currently: Expanding my research in quantum-enhanced metrology and open quantum systems, with interest in applying theory to experimental platforms and real-world quantum technologies.
 
-🌐 Excited by the transformative potential of quantum computing and eager to contribute to the evolving landscape of computational possibilities.
+🔬 Areas of interest:
 
-🔍 Currently a Master's student in Physics, delving deep into the mysteries of the cosmos and the quantum realm. 🌠
+Quantum metrology & sensing
 
-👨‍💻 Join me on this cosmic journey as we explore the profound questions that quantum computing and cosmology pose about the nature of reality. Let's engage at the forefront of scientific exploration and discovery! 🌌✨
+Spin systems & squeezing
+
+Quantum networks & control
+
+Cavity-feedback models
+
+Scientific computing & data analysis
+
+💡 I’m always open to collaboration, learning, and contributing to meaningful quantum research.
 
 <!---
 Quantum-Kumar/Quantum-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
