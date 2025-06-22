@@ -1,5 +1,5 @@
 🚀 Quantum Physicist | Researcher | Simulation Enthusiast
-Hi, I’m Rajkumar Singharia – a physicist with a strong foundation in quantum optics, quantum sensing, and computational modeling. I work with tools like Python, QuTiP, Qiskit, and MATLAB to explore topics ranging from spin-squeezed protocols and decoherence to cavity QED and quantum control.
+Hi, I’m Rajkumar Singharia – a physicist with a strong foundation in quantum optics, quantum sensing, and computational modeling. I work with tools like Python, QuTiP, Qiskit, and Mathematica to explore topics ranging from spin-squeezed protocols and decoherence to cavity QED and quantum control.
 
 🧠 Currently: Expanding my research in quantum-enhanced metrology and open quantum systems, with interest in applying theory to experimental platforms and real-world quantum technologies.
 
