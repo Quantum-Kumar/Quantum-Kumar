@@ -1,23 +1,76 @@
-🚀 Quantum Physicist | Researcher | Simulation Enthusiast
-Hi, I’m Rajkumar Singharia – a physicist with a strong foundation in quantum optics, quantum sensing, and computational modeling. I work with tools like Python, QuTiP, Qiskit, and Mathematica to explore topics ranging from spin-squeezed protocols and decoherence to cavity QED and quantum control.
+# Quantum Computing & Computational Research 🧑‍🔬💡  
 
-🧠 Currently: Expanding my research in quantum-enhanced metrology and open quantum systems, with interest in applying theory to experimental platforms and real-world quantum technologies.
+Welcome! I am a Quantum Researcher & Computational Scientist with expertise in quantum algorithms, astrophysical modeling, and numerical simulations. My work spans quantum sensing, machine learning applications in physics, and high-performance computing.
 
-🔬 Areas of interest:
+📌 🔗 [Thesis Link – Squeezed States & IAS Protocol](https://www.proquest.com/dissertations-theses/advantages-ias-protocol-squeezed-states/docview/3165656828/se-2)  
 
-Quantum metrology & sensing
+---
 
-Spin systems & squeezing
+🔬 Research Overview  
 
-Quantum networks & control
+### Quantum Sensing & Precision Measurement  
+- Developed and simulated spin-squeezed states using the IAS protocol to surpass the Standard Quantum Limit (SQL).  
+- Modeled quantum-enhanced metrology for use in high-precision measurements and gate fidelity optimization.  
+- Designed analysis pipeline using FFTs and Pareto optimization techniques for parameter sensitivity studies.
 
-Cavity-feedback models
+### Quantum Algorithms & Qiskit Summer School Labs  
+- Completed core lab modules of the **Qiskit Global Summer School 2025**, focused on quantum teleportation, noise mitigation, chemistry simulation with SQD, and quantum error correction.  
+- Extracted and reproduced solutions from QGSS lab notebooks, demonstrating quantum protocols on simulators and hardware.  
+- Implemented teleportation, CHSH inequality, VQE, ZNE, and toric/gross code exercises using Qiskit and Aer backends.
 
-Scientific computing & data analysis
+### Astrophysical Modeling & Orbit Determination  
+- Built statistical models to analyze stellar motion using SIMBAD database and custom orbit-fitting techniques.  
+- Utilized `lm` and `deSolve` packages in R for high-dimensional trajectory analysis.  
+- Visualized 3D motion patterns with `plot3D`, uncovering correlations in multi-body dynamics.
 
-💡 I’m always open to collaboration, learning, and contributing to meaningful quantum research.
+### Computational Physics & High-Performance Simulation  
+- Developed 2D convection models with Finite Difference & Finite Volume methods in Python.  
+- Simulated radiative transfer and photon scattering processes with parallelized approaches.  
+- Applied Monte Carlo techniques for probabilistic modeling and numerical integration.  
 
-<!---
-Quantum-Kumar/Quantum-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🛠️ Skills & Technologies  
+
+📌 Programming: Python, R, SQL, C++  
+📌 Quantum Computing: Qiskit, Pennylane, TensorFlow Quantum  
+📌 Data Science: NumPy, Pandas, Scikit-learn, PySpark  
+📌 Computational Methods: CUDA, Finite Volume, Monte Carlo, Orbit Fitting  
+📌 Visualization: Matplotlib, Plot3D, Seaborn  
+
+---
+
+## 📂 Featured Projects  
+
+🧪 [Qiskit Global Summer School 2025 – Lab Solutions](https://github.com/Quantum-Kumar/qgss-2025-labs)  
+This repository contains my extracted and completed solutions from the Qiskit Global Summer School 2025. These labs were part of the certification program and provide hands-on experience with foundational and advanced quantum computing concepts using Qiskit.
+
+- **Lab 1: Recreating Famous Experiments at Home**  
+  Covers quantum superposition, interference, and entanglement through simulations of the double-slit experiment, Schrödinger's cat thought experiment, the CHSH game, and quantum teleportation. Includes implementation of teleportation protocols on both simulators and real quantum hardware.
+
+- **Lab 2: Cutting Through the Noise**  
+  Focuses on quantum noise and error mitigation strategies. Introduces a Max-Cut problem and explores transpilation techniques, noise estimation, and Zero Noise Extrapolation (ZNE). Exercises implement various optimization strategies to improve quantum algorithm execution on real hardware.
+
+- **Lab 3: The Power of Good Sampling for Simulating a Chemistry Hamiltonian with SQD**  
+  Introduces the Sample-based Quantum Diagonalization (SQD) approach for simulating molecular systems. Walks through building the Hamiltonian, applying the Variational Quantum Eigensolver (VQE), and optimizing the ansatz. Bonus exercise includes execution on real devices with error mitigation.
+
+- **Lab 4: Quantum Error Correction: From Core Concepts to Fault Tolerance**  
+  Covers both classical and quantum error correction codes. Introduces stabilizer formalism and practical QEC codes like the 3-qubit bit-flip code, Steane code, Toric code, and Gross code. Exercises include decoding strategies, parity check construction, and logical qubit counting.
+
+---
+
+📘 [Thesis Code – Spin-Squeezing & IAS Protocol](https://github.com/Quantum-Kumar/Quantum-Coder/tree/main/pareto_fft_analysis)  
+Codebase developed for my thesis research, focused on improving quantum metrology using spin-squeezed states and the IAS protocol. Includes simulations for state evolution, FFT-based analysis, and Pareto efficiency studies for optimization of quantum measurement schemes.
+
+🌌 [Astrophysical Data Modeling](#) – Analyzing stellar dynamics with machine learning techniques.  
+🔬 [Computational Simulations](#) – High-performance numerical solutions for physical phenomena.  
+
+---
+
+📢 I am actively seeking research roles in **quantum computing**, **scientific computing**, and **data science**. Open to collaborations!
+
+📧 Email: quantumrksin@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/rajkumar-singharia](https://www.linkedin.com/in/rajkumar-singharia)  
+🧑‍💻 GitHub: [github.com/Quantum-Kumar](https://github.com/Quantum-Kumar)  
+
+Thanks for visiting! 🚀
